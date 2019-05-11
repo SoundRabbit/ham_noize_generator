@@ -4,7 +4,6 @@
 ## License
 WTFPL
 
-## Languege
-
+## Language
 Faust
 https://faust.grame.fr/index.html
